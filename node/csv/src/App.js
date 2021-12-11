@@ -3,7 +3,7 @@ import { Container, Row, Col, Tabs, Tab, Table, thread, tbody, tr, td } from 're
 
 
 // Generate Table Based on input csv file
-// Add function to check if 
+// Add function to check if value does not match
 function DataTable() {
   return (
     <Table striped bordered hover>
